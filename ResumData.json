@@ -1,0 +1,100 @@
+{
+    "main" : {
+        "name" :"Husni Falah",
+        "desription" : "I am Freshgraduate Telkom University",
+        "github" : "https://github.com/husnifalah",
+        "project" : "https://github.com/husnifalah",
+        "bio": "This Is My Portofolio",
+        "image": "my.png",
+        "contactmessage":"Hello, here I am",
+        "email": "husni.flah@gmail.com",
+        "phone": "+62 822-2047-4873",
+        "address":{
+            "street":"Kiaracondong",
+            "city":"Bandung",
+            "state":"West Java",
+            "zip": "42888"
+        },
+        "website": "https://github.com/husnifalah",
+        "resumedownload":"https://github.com/husnifalah",
+        "social":[
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/husni-falah",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/hfl_ah/",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/husnifalah",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Telkom Bandung",
+                "degree": "Diploma degree of System Information",
+                "graduated": "September 2023",
+                "description" : "I am joining Organization and Event "
+            },
+            {
+                "school": "SMA PGRI 1 Pati",
+                "degree": "Science",
+                "graduated": "May 2020",
+                "description": "I am active "
+            }
+            
+        ],
+        "experience": [
+            {
+                "company" : "Dinaskominfo Pati",
+                "title" : "Web Developer",
+                "years": "Januari 2023 - Juli 2023",
+                "description": "Creating a website and maintenance"
+            }, {
+                "company": "HDMSI (Himpunan D3 Sistem Informasi)",
+                "title": "Creative Economy member  ",
+                "years": "Agustus 2022 - Maret 2023",
+                "description": "Help market the collection's accessories"
+            }, {
+                "company": "PORSENI (EVENT BEM)",
+                "title": " Committee ",
+                "years": "Agustus 2022 - Oktober 2022",
+                "description": "help ensure that the event takes place in an orderly and safe manner"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "Laravel",
+                "level": "80%"
+            },
+            {
+                "name": "Codeignater 3",
+                "level": "78%"
+            },
+            {
+                "name": "PHP",
+                "level": "70%"
+            }
+        ]
+    }
+}
